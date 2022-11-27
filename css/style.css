@@ -6,6 +6,8 @@
 @import url('./utilidades/cores.css');
 /* Estilização do header */
 @import url('./global/header.css');
+/* Estilização do footer */
+@import url('./global/footer.css');
 /* Componentes */
 @import url('./utilidades/componentes.css');
 /* Home */
