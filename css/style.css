@@ -4,6 +4,8 @@
 @import url('./utilidades/tipografia.css');
 /* Cores */
 @import url('./utilidades/cores.css');
+/* Animações */
+@import url('./utilidades/animacao.css');
 /* Estilização do header */
 @import url('./global/header.css');
 /* Estilização do footer */
